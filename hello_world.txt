@@ -1,1 +1,2 @@
 # This is the first step to learning how to really code my own app!
+# Now im testing the built in VS Code commit message
